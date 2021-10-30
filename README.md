@@ -7,4 +7,6 @@ use two models to fit the data and test their performance:
 • set stopping metric to “RMSE”
 • set exclude_algos = c("DRF", "GBM","GLM",'XGBoost')
 2. Build modeltime::arima_reg(). For this task set engine to “auto_arima”
-3. 3. Forecast temperatures for next year with model which has lower RMSE.
+3. Forecast temperatures for next year with model which has lower RMSE.
+
+# You wrote "3" twice
